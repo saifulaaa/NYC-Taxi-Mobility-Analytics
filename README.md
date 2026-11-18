@@ -42,13 +42,13 @@ Final cleaned dataset: 4,145,143 records.
 ## Dashboard Previews
 
 ### 1. Executive Overview
-![Executive Overview](c:\Users\Gafoo\Downloads\NYC Taxi Analytics\documentation\executive_overview.png.png)
+![Executive Overview](c:\Users\Gafoo\Downloads\NYC Taxi Analytics\documentation\executive_overview.png)
 
 ### 2. Location & Demand
-![Location & Demand](c:\Users\Gafoo\Downloads\NYC Taxi Analytics\documentation\location_demand.png.png)
+![Location & Demand](c:\Users\Gafoo\Downloads\NYC Taxi Analytics\documentation\location_demand.png)
 
 ### 3. Revenue & Operations
-![Revenue & Operations](c:\Users\Gafoo\Downloads\NYC Taxi Analytics\documentation\1. revenue_operations.png.png)
+![Revenue & Operations](c:\Users\Gafoo\Downloads\NYC Taxi Analytics\documentation\1. revenue_operations.png)
 
 ### 1. Executive Overview
 - Total trips
